@@ -2,6 +2,7 @@
 *Repo name is either a tribute to [Indiana Jones](https://youtu.be/PAfZ7V2VyD8?t=106) or [Frozen](https://www.youtube.com/watch?v=moSFlvxnbgk&feature=youtu.be&t=60) - you decide.*
 
 ## Intro to an Arduino project (using Elegoo Super Starter Kit)
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/marydavis/let-it-glow.svg?columns=all)](https://waffle.io/marydavis/let-it-glow)
 
 ### Setup
   1. [Download IDE](https://www.elegoo.com/download/)
