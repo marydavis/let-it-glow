@@ -42,7 +42,9 @@
  
  #### Images of Parts
   All Parts Packages:
+
   ![Packaged Parts](images/packaged-parts.jpg "Packaged Parts")
   
   New Parts:
+  
   ![New Parts](images/unpackaged-parts.jpg "New Parts")
