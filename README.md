@@ -8,7 +8,6 @@
   1. [Download IDE](https://www.elegoo.com/download/)
   
   1. [Download Elegoo Super Starter Kit Tutorial](https://www.elegoo.com/tutorial/Elegoo%20Super%20Starter%20Kit%20for%20UNO%20V1.0.2017.10.31.zip)
-  
   1. Install the IDE
 
 ### Let's make sure it works
@@ -28,3 +27,22 @@
   1. Now you should see the orange light on your board flashing every 1 second. 
   
   **If so, you are ready for the project!**
+
+## The Project Begins
+
+### Parts List 
+*(everything except the board can be found in the top compartment of the kit)*
+
+  1. **Arduino board** - Elegoo Uno R3
+  1. **USB cable** - for connecting board to computer
+  1. **Breadboard** - great way to try things out, not permanent, no soldering
+  1. **1 RGB LED** - clear LED with 4 metal prongs (legs)
+  1. **4 M-M wires (male to male)** - one for each leg of LED
+  1. **3 x 220ohm resistors** - prevents too much power going to LED, which would burn out without them *(the stripes are important, they are used to show the value of ohms. Here is a neat [color code calculator](https://www.allaboutcircuits.com/tools/resistor-color-code-calculator/).
+ 
+ #### Images of Parts
+  All Parts Packages:
+  ![Packaged Parts](images/packaged-parts.jpg "Packaged Parts")
+  
+  New Parts:
+  ![New Parts](images/unpackaged-parts.jpg "New Parts")
