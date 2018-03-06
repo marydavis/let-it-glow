@@ -41,10 +41,10 @@
   1. **3 x 220ohm resistors** - prevents too much power going to LED, which would burn out without them *(the stripes are important, they are used to show the value of ohms. Here is a neat [color code calculator](https://www.allaboutcircuits.com/tools/resistor-color-code-calculator/).
  
  #### Images of Parts
-  All Parts Packages:
+  All Packaged Parts:
 
-  ![Packaged Parts](images/packaged-parts.jpg "Packaged Parts")
+  ![Packaged Parts](images/rgb-packaged-parts.jpg "Packaged Parts")
   
-  New Parts:
-  
-  ![New Parts](images/unpackaged-parts.jpg "New Parts")
+  Unpackaged New Parts:
+
+  ![New Parts](images/rgb-new-parts.jpg "New Parts")
