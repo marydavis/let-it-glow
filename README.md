@@ -1,14 +1,17 @@
 # Let it glow
 *Repo name is either a tribute to [Indiana Jones](https://youtu.be/PAfZ7V2VyD8?t=106) or [Frozen](https://www.youtube.com/watch?v=moSFlvxnbgk&feature=youtu.be&t=60) - you decide.*
 
+
 ## Intro to an Arduino project (using Elegoo Super Starter Kit)
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/marydavis/let-it-glow.svg?columns=all)](https://waffle.io/marydavis/let-it-glow)
+
 
 ### Setup
   1. [Download IDE](https://www.elegoo.com/download/)
   
   1. [Download Elegoo Super Starter Kit Tutorial](https://www.elegoo.com/tutorial/Elegoo%20Super%20Starter%20Kit%20for%20UNO%20V1.0.2017.10.31.zip)
   1. Install the IDE
+
 
 ### Let's make sure it works
   1. Take the Elegoo Uno R3 board out of bottom left section. *(I keep my antistatic bag for storage)*
@@ -28,8 +31,10 @@
   
   **If so, you are ready for the project!**
 
+
 ## The Project Begins
 *(this project starts from a tutorial for easier setup)*
+
 
 ### Parts List 
 *(everything except the board can be found in the top compartment of the kit)*
@@ -41,6 +46,7 @@
   1. **4 M-M wires (male to male)** - one for each leg of LED
   1. **3 x 220ohm resistors** - prevents too much power going to LED, which would burn out without them *(the stripes are important, they are used to show the value of ohms. Here is a neat [color code calculator](https://www.allaboutcircuits.com/tools/resistor-color-code-calculator/).
  
+ 
   #### Images of Parts
   All Packaged Parts:
 
@@ -49,6 +55,7 @@
   Unpackaged New Parts:
 
   ![New Parts](images/rgb-new-parts.jpg "New Parts")
+
 
 ### Instructions
   1. Let's start plugging things into the breadboard.
@@ -73,6 +80,7 @@
   1. The blue wire is plugged into the Arduino board `-3` then into the row of the red leg.
   
   **MAKE SURE NONE OF THE RESISTORS ARE TOUCHING EACH OTHER**
+
 
   #### Diagram and Pictures
   Elegoo Diagram:
@@ -105,10 +113,16 @@
 
 
  #### Next Steps
-  1. Edit the code and "save as" your own file.
+  1. Make changes to the code and "save as" your own file.
   1. Click the "checkmark" to make sure it compiles.
   1. Click the "right-arrow" to upload.
   1. See your changes go live!
+
+
+### Tips
+  * Get an antistatic box for projects in progress - makes it easier to store.
+  * Get an antistatic mat - helps prevent board death.
+
 
 ### Ready for More (some ideas)
   1. Add button to turn on/off
@@ -117,6 +131,7 @@
   1. Add the humidity/thermometer and make code to change the lights depending on levels.
   1. Could make permanent by moving to a circuit board and solder
 
+
 ## Awesome Places for Fun Projects
 
 [Hackster.io](https://www.hackster.io/)
@@ -124,9 +139,3 @@
 [Arduino Project Hub](https://create.arduino.cc/projecthub)
 
 [hackaday.io](https://hackaday.io/list/3611-arduino-projects)
-
-
-
-
-
-
