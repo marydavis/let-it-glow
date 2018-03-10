@@ -17,8 +17,8 @@
   1. Your board should have a solid green and a solid orange light on it.
   1. Open the Arduiono IDE.
   1. Confirm board setup, click `Tools` in the top toolbar which should include the below:
-     * `Board: Arduino/Genuino Uno` - if not, select it from the list.
-     * `Port: Arduino/Genuino Uno` - don't worry if it has other information too, just make sure it has the board in it.
+      * `Board: Arduino/Genuino Uno` - if not, select it from the list.
+      * `Port: Arduino/Genuino Uno` - don't worry if it has other information too, just make sure it has the board in it.
  
   1. Next, click `File` in the top toolbar.
   1. Open the Blink example by going to `Examples -> 01.Basics -> Blink`.
@@ -56,19 +56,19 @@
 
   1. Diagram and pictures are included below to be used along with instructions.
   1. First plug in the RGB LED - each leg in a different hole in the breadboard in a column, ex. column "b"
-    * The longest leg is the GROUND
-    * The legs are as following: RED, GROUND, GREEN, BLUE
+      * The longest leg is the GROUND
+      * The legs are as following: RED, GROUND, GREEN, BLUE
   1. Next are resistors, one for each color (skipping the ground) 
-    * Resitors will cross the channel (the cut out between column "e" and "f").
-    * Power does not cross the channel, this allows us to plug in the power on one side of the channel and the LED on the other side making the resistor connect the two.
-    * Plug one metal end into the same row as the leg on one side of the channel and then in the same row on the other side of the channel.
+      * Resitors will cross the channel (the cut out between column "e" and "f").
+      * Power does not cross the channel, this allows us to plug in the power on one side of the channel and the LED on the other side making the resistor connect the two.
+      * Plug one metal end into the same row as the leg on one side of the channel and then in the same row on the other side of the channel.
   1. Now for the wires
-    * I used wires that matched the color lights, but any color will do.
-    * Use 1 wire for each leg.
-    * All wires except for the ground will be on the otherside of the channel away from the LED.
+      * I used wires that matched the color lights, but any color will do.
+      * Use 1 wire for each leg.
+      * All wires except for the ground will be on the otherside of the channel away from the LED.
   1. Plug the ground wire into the Arduino black hole labelled `GND`, then into the hole in the breadboard that doesn't have a resistor near the LED.
   1. The red wire is plugged into the Arduino board `-6` then into the row of the red leg. *(remember this is power and must be across the channel away from the LED)
-    * The numbers of where they are plugged in are used in the code so make sure they are right.
+      * The numbers of where they are plugged in are used in the code so make sure they are right.
   1. The green wire is plugged into the Arduino board `-5` then into the row of the red leg. 
   1. The blue wire is plugged into the Arduino board `-3` then into the row of the red leg.
   
@@ -95,7 +95,7 @@
   #### Run the Code
 
   1. Open Elegoo Super Starter Kit Tutorial Folder *(downloaded in setup)*
-    *  *For more detailed information and schematics, checkout the tutorial by opening the Elegoo Super Starter Kit Tutorial pdf and going to Lesson 4 (pg 47)*
+      *  *For more detailed information and schematics, checkout the tutorial by opening the Elegoo Super Starter Kit Tutorial pdf and going to Lesson 4 (pg 47)*
  
   1. Open Code folder -> Lesson 4 folder -> Open `.ino` file in IDE
   1. As you can see, the code is simplified C++ and commented throughout explaining each section.
@@ -118,7 +118,9 @@
   1. Could make permanent by moving to a circuit board and solder
 
 ## Awesome Places for Fun Projects
+
 [Hackster.io](https://www.hackster.io/)
+
 [Arduino Project Hub](https://create.arduino.cc/projecthub)
 
 
