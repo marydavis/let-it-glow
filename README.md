@@ -123,6 +123,8 @@
 
 [Arduino Project Hub](https://create.arduino.cc/projecthub)
 
+[hackaday.io](https://hackaday.io/list/3611-arduino-projects)
+
 
 
 
