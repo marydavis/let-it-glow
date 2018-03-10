@@ -41,7 +41,7 @@
   1. **4 M-M wires (male to male)** - one for each leg of LED
   1. **3 x 220ohm resistors** - prevents too much power going to LED, which would burn out without them *(the stripes are important, they are used to show the value of ohms. Here is a neat [color code calculator](https://www.allaboutcircuits.com/tools/resistor-color-code-calculator/).
  
- #### Images of Parts
+  #### Images of Parts
   All Packaged Parts:
 
   ![Packaged Parts](images/rgb-packaged-parts.jpg "Packaged Parts")
@@ -52,29 +52,29 @@
 
 ### Instructions
   1. Let's start plugging things into the breadboard.
-    - **Make sure to unplug your Arduino, we don't want any power going to it while we are plugging things in.**
+    * **Make sure to unplug your Arduino, we don't want any power going to it while we are plugging things in.**
 
   1. Diagram and pictures are included below to be used along with instructions.
   1. First plug in the RGB LED - each leg in a different hole in the breadboard in a column, ex. column "b"
-    - The longest leg is the GROUND
-    - The legs are as following: RED, GROUND, GREEN, BLUE
+    * The longest leg is the GROUND
+    * The legs are as following: RED, GROUND, GREEN, BLUE
   1. Next are resistors, one for each color (skipping the ground) 
-    - Resitors will cross the channel (the cut out between column "e" and "f").
-    - Power does not cross the channel, this allows us to plug in the power on one side of the channel and the LED on the other side making the resistor connect the two.
-    - Plug one metal end into the same row as the leg on one side of the channel and then in the same row on the other side of the channel.
+    * Resitors will cross the channel (the cut out between column "e" and "f").
+    * Power does not cross the channel, this allows us to plug in the power on one side of the channel and the LED on the other side making the resistor connect the two.
+    * Plug one metal end into the same row as the leg on one side of the channel and then in the same row on the other side of the channel.
   1. Now for the wires
-    - I used wires that matched the color lights, but any color will do.
-    - Use 1 wire for each leg.
-    - All wires except for the ground will be on the otherside of the channel away from the LED.
+    * I used wires that matched the color lights, but any color will do.
+    * Use 1 wire for each leg.
+    * All wires except for the ground will be on the otherside of the channel away from the LED.
   1. Plug the ground wire into the Arduino black hole labelled `GND`, then into the hole in the breadboard that doesn't have a resistor near the LED.
   1. The red wire is plugged into the Arduino board `-6` then into the row of the red leg. *(remember this is power and must be across the channel away from the LED)
-    - The numbers of where they are plugged in are used in the code so make sure they are right.
+    * The numbers of where they are plugged in are used in the code so make sure they are right.
   1. The green wire is plugged into the Arduino board `-5` then into the row of the red leg. 
   1. The blue wire is plugged into the Arduino board `-3` then into the row of the red leg.
   
   **MAKE SURE NONE OF THE RESISTORS ARE TOUCHING EACH OTHER**
 
- #### Diagram and Pictures
+  #### Diagram and Pictures
   Elegoo Diagram:
 
   ![Diagram](images/rgb-elegoo-diagram.png "Diagram")
@@ -92,10 +92,10 @@
   ![Wire Closeup](images/rgb-wired-closeup.jpg "Wire Closeup")
 
 
- #### Run the Code
+  #### Run the Code
 
   1. Open Elegoo Super Starter Kit Tutorial Folder *(downloaded in setup)*
-    - *For more detailed information and schematics, checkout the tutorial by opening the Elegoo Super Starter Kit Tutorial pdf and going to Lesson 4 (pg 47)*
+    *  *For more detailed information and schematics, checkout the tutorial by opening the Elegoo Super Starter Kit Tutorial pdf and going to Lesson 4 (pg 47)*
  
   1. Open Code folder -> Lesson 4 folder -> Open `.ino` file in IDE
   1. As you can see, the code is simplified C++ and commented throughout explaining each section.
