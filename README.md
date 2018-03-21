@@ -50,18 +50,18 @@
   1. **4 M-M wires (male to male)** - one for each leg of LED
   1. **3 x 220ohm resistors** - prevents too much power going to LED, which would burn out without them *(the stripes are important, they are used to show the value of ohms. Here is a neat [color code calculator](https://www.allaboutcircuits.com/tools/resistor-color-code-calculator/).
      * Don't worry if you bend the resistors getting them out of their packaging, you will be bending them alot more shortly :)
- 
- 
+
+
   #### Images of Parts
   This is what all the parts look like in their original packaging.
-  
+
   All Packaged Parts:
-  
+
   ![Packaged Parts](images/rgb-packaged-parts.jpg "Packaged Parts")
-  
-  
+
+
   This is what the parts look like removed from packaging.
-  
+
   Unpackaged New Parts:
 
   ![New Parts](images/rgb-new-parts.jpg "New Parts")
@@ -80,7 +80,7 @@
       * Resitors will cross the channel (the cut out between column "e" and "f").
       * Power does not cross the channel, this allows us to plug in the power on one side of the channel and the LED on the other side making the resistor connect the two.
       * Plug one metal end into the same row as the leg on one side of the channel and then in the same row on the other side of the channel.
-      
+
   1. Now for the wires
       * Remember these are for connecting the power from the Arduino board.
       * I used wires that matched the color lights, but any color will do.
@@ -94,7 +94,7 @@
       * The `~` before the number means it is a PWM (Pulse-width modulation) pin - meaning we can program the power going to it through our code.
   1. The green wire is plugged into the Arduino board `~5` then into the row of the red leg. 
   1. The blue wire is plugged into the Arduino board `~3` then into the row of the red leg.
-  
+
   **MAKE SURE NONE OF THE RESISTORS ARE TOUCHING EACH OTHER**
 
 
@@ -120,13 +120,13 @@
 
   1. Open Elegoo Super Starter Kit Tutorial Folder *(downloaded in setup)*
       *  *For more detailed information and schematics, checkout the tutorial by opening the Elegoo Super Starter Kit Tutorial pdf and going to Lesson 4 (pg 47)*
- 
+
   1. Open Code folder -> Lesson 4 folder -> Open `.ino` file in IDE
       * As you can see, the code is simplified C++ and commented throughout explaining each section.
   1. Plug your Arduino into your computer so we can upload the code and supply power to the board (for now).
   1. Upload this code to your board by clicking Upload.
   1. Your light should now be changing colors!
-  
+
   #### Freedom!
   Currently your computer is powering your Arduino, so it stops as soon as it is unplugged.
   We are going to fix that!
@@ -148,9 +148,9 @@
 
 
 ### Ready for More (some ideas)
-  1. Add button to turn on/off
+  1. Add button to turn on/off.
   1. Add the humidity/thermometer and make code to change the lights depending on levels.
-  1. Add a lamp shade for a pretty light
+  1. Add a lamp shade for a pretty light.
 
 ## Awesome Places for Fun Projects
 
