@@ -113,10 +113,17 @@
   1. Plug your Arduino into your computer.
   1. Click the upload button (right arrow) and off it goes!
   1. Your light should now be changing colors!
+  
+  #### Freedom!
+  Currently your computer is powering your Arduino, so it stops as soon as it is unplugged.
+  We are going to fix that!
+  1. Find the 9volt battery and wire that connects to it.
+  2. It is as simple as plugging it into the board.
+  3. Voila! Now your arduino can run on its own and only needs the computer to upload code changes if desired.
 
 
  #### Next Steps
-  1. Make changes to the code and "save as" your own file.
+  1. Make changes to the code for different colors or timing and "save as" your own file.
   1. Click the "checkmark" to make sure it compiles.
   1. Click the "right-arrow" to upload.
   1. See your changes go live!
@@ -129,11 +136,8 @@
 
 ### Ready for More (some ideas)
   1. Add button to turn on/off
-  1. Add the 9V battery - allowing it to be removed from computer!
-  1. Add a lamp shade for a pretty light
   1. Add the humidity/thermometer and make code to change the lights depending on levels.
-  1. Could make permanent by moving to a circuit board and solder
-
+  1. Add a lamp shade for a pretty light
 
 ## Awesome Places for Fun Projects
 
