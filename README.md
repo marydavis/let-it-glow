@@ -1,5 +1,5 @@
 # Let it glow
-*Repo name is either a tribute to [Indiana Jones](https://youtu.be/PAfZ7V2VyD8?t=106) or [Frozen](https://www.youtube.com/watch?v=moSFlvxnbgk&feature=youtu.be&t=60) - you decide.*
+*This repo name (let it go) is either a tribute to [Indiana Jones](https://youtu.be/PAfZ7V2VyD8?t=106) or [Frozen](https://www.youtube.com/watch?v=moSFlvxnbgk&feature=youtu.be&t=60) - you decide.*
 
 
 ## Intro to an Arduino project (using Elegoo Super Starter Kit)
@@ -11,9 +11,12 @@
      * [IDE for Windows](https://www.elegoo.com/tutorial/Windows.zip)
      * [IDE for MacOS](https://www.elegoo.com/tutorial/MAC.zip)
      * [IDE for Linux](https://www.elegoo.com/tutorial/Linux.zip)
+     * [IDE for Chromebook](https://chrome.google.com/webstore/detail/arduino-create/dcgicpihgkmccjigalccipmjlnjopdfe)
   
   1. [Download Elegoo Super Starter Kit Tutorial](https://www.elegoo.com/tutorial/Elegoo%20Super%20Starter%20Kit%20for%20UNO%20V1.0.2017.10.31.zip)
   1. Install the IDE
+  
+  *If downloads are taking awhile, you can go ahead and start [assembling your project](https://github.com/marydavis/let-it-glow#the-project-begins), but don't forget to come back here once it has finished.*
 
 
 ### Let's make sure the board works first
@@ -27,7 +30,7 @@
       * `Port: Arduino/Genuino Uno` - if not, select it from the list (find the one that contains 'Arduino/Genuino Uno', don't worry if it has other text too).
  
   1. Next, in the File menu open the Blink example: `File -> Examples -> 01.Basics -> Blink`.
-      * This example code will make your orange light on your board flash every 1 second.
+      * When uploaded this example code will make your orange light on your board flash every 1 second.
   1. Upload this code to your board by clicking Upload.
       * Click the ➡️(right arrow) for Upload, it is next to the check mark above the "Blink" tab name.
   1. You should see it sending information in the console at the bottom of the screen and several lights flashing on your board.
@@ -121,7 +124,7 @@
   1. Open Elegoo Super Starter Kit Tutorial Folder *(downloaded in setup)*
       *  *For more detailed information and schematics, checkout the tutorial by opening the Elegoo Super Starter Kit Tutorial pdf and going to Lesson 4 (pg 47)*
 
-  1. Open Code folder -> Lesson 4 folder -> Open `.ino` file in IDE
+  1. Open English folder -> Code folder -> Lesson 4 folder -> Open `.ino` file in IDE
       * As you can see, the code is simplified C++ and commented throughout explaining each section.
   1. Plug your Arduino into your computer so we can upload the code and supply power to the board (for now).
   1. Upload this code to your board by clicking Upload.
@@ -148,6 +151,7 @@
 
 
 ### Ready for More (some ideas)
+*The Elegoo Super Starter Kit Tutorial pdf includes many other tutorials, give them a try!*
   1. Add button to turn on/off.
   1. Add the humidity/thermometer and make code to change the lights depending on levels.
   1. Add a lamp shade for a pretty light.
@@ -159,3 +163,6 @@
 [Arduino Project Hub](https://create.arduino.cc/projecthub)
 
 [hackaday.io](https://hackaday.io/list/3611-arduino-projects)
+
+## Help make this better
+  Please submit a Pull Request for any recommended changes you find along the way :)
