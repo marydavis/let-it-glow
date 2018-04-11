@@ -23,7 +23,7 @@
   1. Take the Elegoo Uno R3 board out of bottom left section. *(I keep my antistatic bag for storage)*
   1. Take the blue USB cable out of the top section.
   1. Plug your board into your computer using the cable.
-  1. Your board should have a solid green and a solid orange light on it.
+  1. Your board should have a green light and an orange light on it. The green light should be solid; the orange light may be solid or blinking.
   1. Open the Arduiono IDE.
   1. Confirm board setup, click `Tools` in the top toolbar which should include the below:
       * `Board: Arduino/Genuino Uno` - if not, select it from the list.
