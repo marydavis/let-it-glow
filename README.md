@@ -53,6 +53,7 @@
   1. **4 M-M wires (male to male)** - one for each leg of LED
   1. **3 x 220ohm resistors** - prevents too much power going to LED, which would burn out without them *(the stripes are important, they are used to show the value of ohms. Here is a neat [color code calculator](https://www.allaboutcircuits.com/tools/resistor-color-code-calculator/).
      * Don't worry if you bend the resistors getting them out of their packaging, you will be bending them alot more shortly :)
+     * **The ohm number is written on the paper holding the resistors - make sure it says 220 (see image below for example)**
 
 
   #### Images of Parts
