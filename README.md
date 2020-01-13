@@ -3,8 +3,6 @@
 
 
 ## Intro to an Arduino project (using Elegoo Super Starter Kit)
-[![Waffle.io - Columns and their card count](https://badge.waffle.io/marydavis/let-it-glow.svg?columns=all)](https://waffle.io/marydavis/let-it-glow)
-
 
 ### Setup
   1. Download IDE
