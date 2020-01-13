@@ -5,11 +5,7 @@
 ## Intro to an Arduino project (using Elegoo Super Starter Kit)
 
 ### Setup
-  1. Download IDE
-     * [IDE for Windows](https://www.elegoo.com/tutorial/Windows.zip)
-     * [IDE for MacOS](https://www.elegoo.com/tutorial/MAC.zip)
-     * [IDE for Linux](https://www.elegoo.com/tutorial/Linux.zip)
-     * [IDE for Chromebook](https://chrome.google.com/webstore/detail/arduino-create/dcgicpihgkmccjigalccipmjlnjopdfe)
+  1. [Download Arduino IDE](https://www.elegoo.com/download/)
   
   1. [Download Elegoo Super Starter Kit Tutorial](https://www.elegoo.com/tutorial/Elegoo%20Super%20Starter%20Kit%20for%20UNO%20V1.0.2017.10.31.zip)
   1. Install the IDE
