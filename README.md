@@ -7,7 +7,7 @@
 ### Setup
   1. [Download Arduino IDE](https://www.elegoo.com/download/)
   
-  1. [Download Elegoo Super Starter Kit Tutorial](https://www.elegoo.com/tutorial/Elegoo%20Super%20Starter%20Kit%20for%20UNO%20V1.0.2017.10.31.zip)
+  1. [Download Elegoo Super Starter Kit Tutorial](https://www.elegoo.com/tutorial/Elegoo%20Super%20Starter%20Kit%20for%20UNO%20V1.0.2019.09.17.zip)
   1. Install the IDE
   
   *If downloads are taking awhile, you can go ahead and start [assembling your project](https://github.com/marydavis/let-it-glow#the-project-begins), but don't forget to come back here once it has finished.*
