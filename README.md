@@ -5,8 +5,8 @@
 ## Intro to an Arduino project (using Elegoo Super Starter Kit)
 
 ### Setup
-  1. [Download Arduino IDE](https://www.arduino.cc/en/software)
-  1. [Download Elegoo Super Starter Kit Tutorial](http://69.195.111.207/tutorial-download/?t=UNO_R3_Project_Super_Starter_Kit)
+  1. <a href="https://www.arduino.cc/en/software" target="_blank">Download Arduino IDE</a>
+  1. <a href="https://www.elegoo.com/blogs/arduino-projects/elegoo-uno-project-super-starter-kit-tutorial" target="_blank">Download Elegoo Super Starter Kit Tutorial</a>
   1. Install the IDE
   
   *If downloads are taking awhile, you can go ahead and start [assembling your project](https://github.com/marydavis/let-it-glow#the-project-begins), but don't forget to come back here once it has finished.*
